@@ -72,8 +72,6 @@ The application uses a predefined data store that mimics a SQL database schema. 
 | CUST_ID       | VARCHAR2(10) | Foreign Key (Customer)   |
 | DIVE_ID       | NUMBER      | Foreign Key (Dive)      |
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
